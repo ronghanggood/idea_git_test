@@ -7,5 +7,8 @@ public class first_git {
         System.out.println("你大爷的");
         System.out.println("你大爷的");
         System.out.println("你大爷的");
+        System.out.println("clone");
+		
+		
     }
 }
